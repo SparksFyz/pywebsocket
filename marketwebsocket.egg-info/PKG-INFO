@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: marketwebsocket
+Version: 0.0.1
+Summary: websocket support for tos market
+Home-page: http://172.16.1.41:10080/yizhen.fan/market-websocket
+Author: yizhen.fan
+Author-email: yizhen.fan@transwarp.io
+License: MIT Licence
+Description: websocket support for tos market
+Platform: UNKNOWN
